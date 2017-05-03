@@ -1,0 +1,8 @@
+title: xpert-framework
+description: Building enterprise applications in simple way
+google_analytics: UA-31152587-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
