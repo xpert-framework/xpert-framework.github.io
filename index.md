@@ -72,7 +72,7 @@ ear-archetype-1.2 | [ear-archetype-1.2.zip](https://github.com/xpert-framework/d
 
 Web Version:
 
-https://github.com/xpert-framework/xpert-framework/wiki
+[https://github.com/xpert-framework/xpert-framework/wiki/](https://github.com/xpert-framework/xpert-framework/wiki/)
 
 PDF Version:
 
